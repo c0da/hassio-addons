@@ -1,6 +1,6 @@
 # Snapcast client addon for hass.io
 
-[![Build Status](https://travis-ci.org/bestlibre/hassio-addons.svg?branch=master)](https://travis-ci.org/bestlibre/hassio-addons)[![](https://images.microbadger.com/badges/version/bestlibre/armhf-snapcast-client.svg)](https://microbadger.com/images/bestlibre/armhf-snapcast-client "Get your own version badge on microbadger.com")
+[![Build Status](https://travis-ci.org/c0da/hassio-addons.svg?branch=master)](https://travis-ci.org/c0da/hassio-addons)[![](https://images.microbadger.com/badges/version/bestlibre/armhf-snapcast-client.svg)](https://microbadger.com/images/bestlibre/armhf-snapcast-client "Get your own version badge on microbadger.com")
 
 ## Snapcast player for Home Assistant
 
